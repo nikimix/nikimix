@@ -5,7 +5,7 @@
 ** My skills: **
 * HTML/CSS
 * JS
-* Связаться со мной: tg @nikimix
+* My tg is @nikimix
 
 <!--
 **nikimix/nikimix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
