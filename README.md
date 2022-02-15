@@ -5,7 +5,8 @@
 ** My skills: **
 * HTML/CSS
 * JS
-* My tg is @nikimix
+
+** teglegram @nikimix **
 
 <!--
 **nikimix/nikimix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
