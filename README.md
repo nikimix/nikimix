@@ -3,8 +3,12 @@
 ### My name's Nikita, I'm beginner frontend developer ###
 
 ** My skills: **
-* HTML/CSS
 * JS
+* CSS
+* HTML
+* Gulp
+* Sass
+* BEM
 
 ** telegram @nikimix **
 
