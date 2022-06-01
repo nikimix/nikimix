@@ -1,28 +1,29 @@
-### Hi ✋
+# Nikita Gorbachev
+### Junior Front-End Developer
+***
+## Contacts:
+##### +375(33)678-32-41(MTS, Viber, telegram)
+##### Email: nikitagorbachev1997@gmail.com
+##### Linkedln: [https://linkedin.com/NikitaGorbachev](https://www.linkedin.com/in/nikita-harbachou/)
+***
+## Skills:
++ **HTML5**
++ **CSS3 (SASS, SCSS)**
++ **JavaScript (ES5, ES6)**
++ **NPM**
++ **Gulp, Webpack**
++ **Git**
++ **VSCode**
++ **Chrome Dev Tools, ESLint, Prettier**
++ **Figma**
 
-### My name's Nikita, I'm beginner frontend developer ###
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/nikimix/badges"/>](codewars)</br>  
 
-** My skills: **
-* JS
-* CSS
-* HTML
-* Gulp
-* Sass
-* BEM
+***
+## Courses:  
 
-** telegram @nikimix **
+2021-2022
+: **JavaScript/Front-end**
+*The Rolling Scopes School, Front-end Developer*
 
-<!--
-**nikimix/nikimix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## English level: A2
