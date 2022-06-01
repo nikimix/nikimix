@@ -17,7 +17,7 @@
 + **Chrome Dev Tools, ESLint, Prettier**
 + **Figma**
 
-[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/nikimix/badges"/>](codewars)</br>  
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/nikimix/badges/large"/>](codewars)</br>  
 
 ***
 ## Courses:  
