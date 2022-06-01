@@ -2,7 +2,7 @@
 ### Junior Front-End Developer
 ***
 ## Contacts:
-##### +375(33)678-32-41(MTS, Viber, telegram)
+##### +375(33)678-32-41 (MTS, Viber, telegram)
 ##### Email: nikitagorbachev1997@gmail.com
 ##### Linkedln: [https://linkedin.com/NikitaGorbachev](https://www.linkedin.com/in/nikita-harbachou/)
 ***
